@@ -3,10 +3,16 @@
 let firstName = "Karter";
 let lastName = "Anderson";
 let address = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
+console.log(firstName); //Karter
+console.log(lastName); //Anderson
+console.log(address); //54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai
 
 const restaurantName = "Chef's Table by Chef James";
 const totalbills = 15000
 const Totalrestaurantfranchises = 1500 
+console.log(restaurantName); //Chef's Table by Chef James
+console.log(totalbills); //15000
+console.log(Totalrestaurantfranchises); //1500
 
 
 //Exercise #2: Variable Reassignment
@@ -14,6 +20,9 @@ const Totalrestaurantfranchises = 1500
 let firstName = "Karter";
 let lastName = "Anderson";
 let address = "(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641";
+console.log(firstName); //Karter
+console.log(lastName); //Anderson
+console.log(address); //(970) 878-53292400 County Rd #4Meeker, Colorado(CO), 81641
 
 
 const restaurantName = "Chef's Table by Chef James";
